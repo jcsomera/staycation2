@@ -735,6 +735,10 @@ section {
   transform: scale(1.1);
 }
 
+.gallery .gallery-text {
+  text-align: justify;
+}
+
 @media (max-width: 767px) {
   #gallery {
     padding: 100px 20px 100px 20px;
